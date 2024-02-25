@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/564x/14/95/50/1495506da16236e18f97e792c4a00530.jpg)
 <h1 align="center">Hi 👋, I'm Metehan Alp</h1>
-<h3 align="center">A passionate Data analyst from Turkiye</h3>
+<h3 align="center">A passionate Data analyst from Usa</h3>
 
 - 🌱 I’m currently learning **Python,Excel,SQL,R,Tableu**
 
