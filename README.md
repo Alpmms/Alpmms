@@ -1,27 +1,35 @@
-[![MasterHead](https://i.pinimg.com/564x/14/95/50/1495506da16236e18f97e792c4a00530.jpg)
-<h1 align="center">Hi 👋, I'm Metehan Alp</h1>
-<h3 align="center">A passionate Data analyst from Usa</h3>
+# Metehan Alp Memis
 
-- 🌱 I’m currently learning **Python,Excel,SQL,R,Tableu**
+**Ph.D. Student, Transportation Geotechnics** · University of Illinois Urbana-Champaign
+Advisor: Prof. Erol Tutumluer · Alfred Korn Fellow
 
-- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib**
+I work at the intersection of **transportation geotechnics** and **data-centric, interpretable machine learning**. My research focuses on learning reliably from large, heterogeneous infrastructure datasets, especially the FHWA Long-Term Pavement Performance (LTPP) database, with an emphasis on leakage-resistant validation, geographic generalization, and physically meaningful interpretation.
 
-- 📫 How to reach me **mtalpmemis@gmail.com**
+---
 
-- ⚡ Fun fact **Once, while traveling around the world, I accidentally got lost in the oldest library in a city and spent hours exploring the books there**
+### 🔬 Research focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alp m." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alp m." height="30" width="40" /></a>
-<a href="https://instagram.com/miteandsivo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miteandsivo" height="30" width="40" /></a>
-<a href="https://medium.com/@alp m." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alp m." height="30" width="40" /></a>
-</p>
+- **Pavement materials & mechanics:** resilient modulus, laboratory vs. field (RLT vs. FWD) stiffness, stress-dependent layered elastic analysis
+- **Trustworthy ML for engineering data:** group-aware train/test splitting, data leakage diagnostics, SHAP-based physical consistency checks
+- **Airfield pavements:** unbound aggregate base performance and FAA specification-oriented research
+- **Infrastructure resilience:** seismic site characterization, permafrost degradation, climate-sensitive geosystems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📄 Selected publications
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpmms&show_icons=true&locale=en&layout=compact" alt="alpmms" /></p>
+- **Memis, M.A.**, & Ulus Memis, S. (2026). Interpretable machine learning framework for resilient modulus estimation of unbound granular base layers: Insights from the LTPP database. *Transportation Geotechnics*, 64, 102292. [doi:10.1016/j.trgeo.2026.102292](https://doi.org/10.1016/j.trgeo.2026.102292)
+  > 82,682 lab measurements · 603 LTPP sections · 40 states. Row-level random splitting inflated test R² from ~0.78 to ~0.93; section-based splitting gives the honest estimate.
+- **Memis, M.A.**, & Ulus Memis, S. (2026). Global seismic site characterization of nuclear power plant sites using USGS Vs30 data. *Nuclear Engineering and Technology*, 104595. [doi:10.1016/j.net.2026.104595](https://doi.org/10.1016/j.net.2026.104595)
+- **Memis, M.A.**, Keskin, I., Demir, S., & Ulus Memis, S. (2025). Machine learning-based prediction of permafrost degradation and its implications on geotechnical infrastructure: A comprehensive review. *AI in Civil Engineering*, 4(1), 28. [doi:10.1007/s43503-025-00080-8](https://doi.org/10.1007/s43503-025-00080-8)
+- Keskin, I., & **Memis, M.A.** (2025). Prediction of soil strength and dynamic properties through the dynamic cone penetration index. *Discover Civil Engineering*, 2(1), 142. [doi:10.1007/s44290-025-00305-w](https://doi.org/10.1007/s44290-025-00305-w)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpmms&show_icons=true&locale=en" alt="alpmms" /></p>
+Full list: [Google Scholar]( https://scholar.google.com/citations?user=kkfv-ygAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0005-3849-7694)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpmms&" alt="alpmms" /></p>
+### 🛠️ Tools
+
+**Data & ML:** Python (pandas, NumPy, SciPy, scikit-learn, Matplotlib), SHAP, MATLAB
+**Geotechnical & numerical modeling:** PLAXIS 2D/3D, ABAQUS, DEEPSOIL, GeoStudio, PyMastic (layered elastic)
+**Remote sensing & GIS:** Google Earth Engine, QGIS, MODIS
+
+### 📫 Contact
+
+[Website](https://alpmms.github.io/) · [LinkedIn](https://www.linkedin.com/in/metehanalpmemis) · [ORCID](https://orcid.org/0009-0005-3849-7694) · mmemis2@illinois.edu
